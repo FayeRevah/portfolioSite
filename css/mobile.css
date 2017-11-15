@@ -1,0 +1,33 @@
+/* ================================
+Faiga Revah
+Nov 14 2017
+written for - front-end Udacity project 
+=================================== */
+
+/* for device screens less than 768px */
+
+/* 
+   resizes three bottom images, adds padding to header,
+   centers text under images
+ */
+.subImg {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.header {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#featuredWork {
+	text-align: center;
+}
+
+.desc {
+	text-align: center;
+}
+
+.center-img {
+	text-align: center;
+}

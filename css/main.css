@@ -1,0 +1,32 @@
+/* ================================
+Faiga Revah
+Nov 14 2017
+written for - front-end Udacity project 
+=================================== */
+
+/* main css for all device sizes */
+body {
+	background-color: #000;
+	color:#ff0099;
+	font-family: 'Syncopate', sans-serif;
+}
+.link {
+	font-family: 'Abel', sans-serif;
+}
+.center-img {
+	margin: 0 auto;
+	padding-bottom: 10%;
+}
+.header {
+	padding-top: 2%;
+}
+.topImg {
+	width: 100%;
+}
+#featuredWork {
+	color: #7d97ad;
+	font-weight: bold;
+}
+.desc {
+	color: #c0c0c0;
+}

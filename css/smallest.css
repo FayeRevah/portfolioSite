@@ -1,0 +1,28 @@
+/* ================================
+Faiga Revah
+Nov 14 2017
+written for - front-end Udacity project 
+=================================== */
+
+/* for device screens less than 512 px */
+
+/* resizes the logo */
+#logo {
+	height: 75px;
+	width: 75px;
+	float:left;
+}
+
+/* resizes header text and description */
+#headerText {
+	float: right;
+	text-align: right;
+	font-size: 2.5em;
+}
+
+#headerDesc {
+	float: right;
+	text-align: right;
+	clear: right;
+	font-size: 1em;
+}
