@@ -14,13 +14,13 @@ written for - front-end Udacity project
 	float: left;
 }
 
-#headerText {
+#header-text {
 	float: right;
 	text-align: right;
 	font-size: 3em;
 }
 
-#headerDesc {
+#header-desc {
 	float: right;
 	text-align: right;
 	clear: right;

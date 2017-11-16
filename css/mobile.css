@@ -10,7 +10,7 @@ written for - front-end Udacity project
    resizes three bottom images, adds padding to header,
    centers text under images
  */
-.subImg {
+.sub-img {
 	width: 80%;
 	margin: 0 auto;
 }
@@ -20,7 +20,7 @@ written for - front-end Udacity project
 	padding-right: 5%;
 }
 
-#featuredWork {
+#featured-work {
 	text-align: center;
 }
 

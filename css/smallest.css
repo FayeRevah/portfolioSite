@@ -14,13 +14,13 @@ written for - front-end Udacity project
 }
 
 /* resizes header text and description */
-#headerText {
+#header-text {
 	float: right;
 	text-align: right;
 	font-size: 2.5em;
 }
 
-#headerDesc {
+#header-desc {
 	float: right;
 	text-align: right;
 	clear: right;
